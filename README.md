@@ -1,0 +1,1 @@
+A repository following along with the Django tutorial by Corey Schafer that can be found [here](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
